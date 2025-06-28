@@ -7,7 +7,7 @@ Repozytorium zawiera implementacje metod obliczeniowych, oraz sprawozdania anali
 
 | Laboratorium | Temat                                                        | Źródło           |
 | ------------ | ------------------------------------------------------------ | ---------------- |
-| Lab 1        | Arytmetyka Komputerowe                                       | [lab1](lab1/)    |
+| Lab 1        | Arytmetyka Komputerowa                                       | [lab1](lab1/)    |
 | Lab 2a       | Interpolacja - Zagadnienie Lagrange'a                        | [lab2_a](lab2a/) |
 | Lab 2b       | Interpolacja - Zagadnienie Hermite'a                         | [lab2_b](lab2b/) |
 | Lab 3        | Funkcje Sklejane                                             | [lab3](lab3/)    |
