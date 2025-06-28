@@ -19,7 +19,7 @@ Repozytorium zawiera implementacje metod obliczeniowych, oraz sprawozdania anali
 
 <br/>
 <p align="center">
-  <img src="" />
-  <p align="center"><a href="lab3">[Lab 3]</a><i>  | Interpolacja funkcjami sklejanymi </i></p>
+  <img src="https://github.com/user-attachments/assets/41745b26-45e0-4233-a52a-f2bde9733342", width=70% />
+  <p align="center"><a href="lab3">[Lab 3]</a><i>  | Interpolacja sześciennymi funkcjami sklejanymi </i></p>
 </p>
 <br/>
