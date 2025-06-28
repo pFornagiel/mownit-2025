@@ -1,3 +1,15 @@
+# Working files
+*/img
+*/data
+*/img*
+*/plots*
+*/out/*
+*.exe
+*.zip
+data*
+
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
